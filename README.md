@@ -1,5 +1,5 @@
 # sec2_encryption
-Ik de applicatie geschreven in plain PHP, dus geen gebruik gemaakt van een framework o.i.d.
+Ik heb de applicatie geschreven in plain PHP, dus geen gebruik gemaakt van een framework o.i.d.
 
 Voor het encrypten/decrypten heb ik crypt-php gebruikt (https://github.com/o/crypt-php).
 
